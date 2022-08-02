@@ -4,7 +4,7 @@ My name is Conor Maguire 👋
 Aspiring Programmer
 -------------------
 
-Graduate Developer @ Codec - Current HDip Student in Computing in Software Development.Recent Pyschology Graduate achieving a 1st, love to learn and learn new things! Don't really use this as of yet ..
+Graduate Developer @ Codec - Current HDip Student in Computing in Software Development.Recent Pyschology Graduate achieving a 1st, love to learn new things! Don't really use this as of yet ..
 
 *   🌍  I'm based in Louth, Ireland
 *   ✉️  You can contact me at [maguiremconor@gmail.com](mailto:maguiremconor@gmail.com)<p align="left">
