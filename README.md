@@ -4,7 +4,7 @@ My name is Conor Maguire 👋
 Aspiring Programmer
 -------------------
 
-I have dabbled in the process of trying to learn to code since I was 12. I have recently completed my undergrad in Psychology and have started to hopefully switch careers! This space is for my own personal projects along with any significant college projects
+Graduate Developer @ Codec - Current HDip Student in Computing in Software Development.Recent Pyschology Graduate achieving a 1st, love to learn and learn new things! Don't really use this as of yet ..
 
 *   🌍  I'm based in Louth, Ireland
 *   ✉️  You can contact me at [maguiremconor@gmail.com](mailto:maguiremconor@gmail.com)<p align="left">
