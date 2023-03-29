@@ -1,10 +1,10 @@
 My name is Conor Maguire 👋
 ==============================
 
-Graduate CE Developer @ Codec
+Assoicate Technical Consultant @ Codec
 -------------------
 
-Current HDip Student in Computing in Software Development. Recent Pyschology Graduate achieving a 1st, love to learn new things! Don't really use this as of yet ..
+Recent HDip Student in Computing in Software Development and Recent Pyschology Graduate achieving a 1st, love to learn new things! Don't really use this as of yet ..
 Learning C# and the dot Net framework currently
 
 *   🌍  I'm based in Louth, Ireland
