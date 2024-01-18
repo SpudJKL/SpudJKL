@@ -1,11 +1,8 @@
-My name is Conor Maguire 👋
+Conor Maguire 👋
 ==============================
 
 Assoicate Technical Consultant @ Codec
 -------------------
-
-Recent HDip Student in Computing in Software Development and Recent Pyschology Graduate achieving a 1st, love to learn new things! Don't really use this as of yet ..
-Currently learning Kotlin
 
 *   🌍  I'm based in Louth, Ireland
 *   ✉️  You can contact me at [maguiremconor@gmail.com](mailto:maguiremconor@gmail.com)
